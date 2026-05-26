@@ -60,7 +60,7 @@ The goal is to help businesses predict daily sales and make data-driven decision
 ---
 
 ## 📉 Forecast Chart
-![Sales Forecast](forecast_report.png)
+![Sales Forecast](advanced_analytics.png)
 
 ---
 
@@ -90,5 +90,7 @@ The goal is to help businesses predict daily sales and make data-driven decision
 - **Repository:** FUTURE_ML_01
 
 ---
+
+
 
 *Submitted as part of the Future Interns Machine Learning Internship Program*
